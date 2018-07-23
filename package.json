@@ -1,0 +1,27 @@
+{
+    "name": "testnode",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "cors": "^2.8.4",
+        "ejs": "^2.6.1",
+        "express": "^4.16.3",
+        "formidable": "^1.2.1",
+        "fs": "0.0.1-security",
+        "memory-cache": "^0.2.0",
+        "nconf": "^0.10.0",
+        "net": "^1.0.2",
+        "path": "^0.12.7",
+        "socket.io": "^2.1.0",
+        "socket.io-client": "^2.1.0",
+        "solc": "^0.4.21",
+        "web3": "^1.0.0-beta.22"
+    }
+}

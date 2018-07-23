@@ -1,0 +1,15 @@
+{
+    "server": {
+        "hosts": [
+            "http://localhost:3034",
+            "http://localhost:3035"
+        ]
+        },
+     "node":2,
+     "nodeInfo":{
+            "node-1":["0xd665708e9c1caa06ebf1e4868a13b1673b9f05cb"] ,
+            "node-2":["0x40ee1c7867c2533af1820ffef4ad8f0127b2e011"]
+         }
+     
+        
+}
